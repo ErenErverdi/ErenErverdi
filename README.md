@@ -1,4 +1,5 @@
 <div align="center">
-  <img src="karakter-animasyonu.gif" alt="Yürüyen Piksel Karakter" width="200"/>
+  <img src="Sprite-0001.png" width="200" alt="Piksel Karakterim" />
   <h1>Hello I'm Eren 👾</h1>
+  <p>Bağımsız 2D Oyun Geliştiricisi & Piksel Sanatçısı</p>
 </div>
